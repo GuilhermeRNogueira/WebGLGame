@@ -25,13 +25,13 @@
                     {
                         "name": "Player541",
                         "fatimaRpcPath": "NONE",
-                        "playerType": "AI-TIT-FOR-TAT",
+                        "playerType": "AI-COMPENSATOR",
                         "interactionType": "NONE"
                     },
                     {
                         "name": "Player76",
                         "fatimaRpcPath": "NONE",
-                        "playerType": "AI-TIT-FOR-TAT",
+                        "playerType": "AI-COMPENSATOR",
                         "interactionType": "NONE"
                     }
                 ],

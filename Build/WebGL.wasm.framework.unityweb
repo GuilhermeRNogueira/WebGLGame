@@ -13581,9 +13581,6 @@ function _inet_addr(ptr) {
  return addr;
 }
 function _insertOneDB(currSessionId, currGameId, generation, playerName, playerType, playerTookFromCP, playerGain, envState) {
- webPreferences : {
-  nodeIntegration : true;
- }
  var MongoClient = require("mongodb").MongoClient;
  var uri = "mongodb+srv://admin:admin@fortheplanet-ya50d.mongodb.net/test?retryWrites=true&w=majority";
  var dbName = "ForThePlanet";
